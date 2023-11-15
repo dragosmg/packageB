@@ -1,3 +1,3 @@
-# packageB (development version)
+# packageB 0.1.0
 
 * Initial CRAN submission.
