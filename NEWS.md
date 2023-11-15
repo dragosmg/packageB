@@ -1,3 +1,5 @@
+# packageB 0.4.1
+
 # packageB 0.4.0
 
 * `add_six()`
