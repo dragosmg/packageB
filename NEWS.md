@@ -1,3 +1,5 @@
+# packageB 0.4.0
+
 # packageB 0.3.0
 
 * `add_five()`
