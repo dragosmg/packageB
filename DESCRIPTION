@@ -1,6 +1,6 @@
 Package: packageB
 Title: What the Package Does (One Line, Title Case)
-Version: 0.3.0
+Version: 0.4.0
 Authors@R: 
     person("Dragoș", "Moldovan-Grünfeld", , "dragos.mold@gmail.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
