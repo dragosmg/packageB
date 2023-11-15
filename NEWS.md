@@ -1,3 +1,7 @@
+# packageB 0.4.1
+
+* updated GHA workflows to use the internal CRAN
+
 # packageB 0.4.0
 
 * `add_six()`
