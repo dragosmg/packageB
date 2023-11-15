@@ -1,3 +1,5 @@
+# packageB 0.3.0
+
 # packageB 0.2.0
 
 * `add_four()`
